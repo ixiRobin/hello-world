@@ -7,6 +7,6 @@
  
  Summer 2019 Goals:
  
-  // Create first major personal repository.
-  // Make a significant contribution to another repository.
-  // Rank up GitHub reputation.
+  // Create first major personal repository
+  // Make a significant contribution to another repository
+  // Rank up GitHub reputation
